@@ -130,5 +130,3 @@ const list = (containerId) => {
       containerUsers.appendChild(error);
     });
 };
-
-export default list;
